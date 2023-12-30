@@ -6,7 +6,7 @@
 </template>
 
 <script>
-import index from './Public_content/sb_index'
+import index from './Public_content/sb_index.vue'
     export default {
         name:'indexcomponent',
         components:{index},

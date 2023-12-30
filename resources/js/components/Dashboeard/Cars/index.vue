@@ -118,7 +118,7 @@ import pagination from 'laravel-vue-pagination';
 // this biblio for reding excel files
 import readXlsxFile from 'read-excel-file'
 // import cadrs component
-import cards from '../componnents/cards';
+import cards from '../componnents/cards.vue';
 export default{
   components:{
      Add,pagination,cards

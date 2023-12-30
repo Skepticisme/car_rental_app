@@ -38,7 +38,7 @@ import 'sweetalert2/src/sweetalert2.scss'
 import navBar from './componenets/navBar.vue';
 import home from './componenets/home.vue';
 import steps from './componenets/steps.vue';
-import cars from './componenets/cars'
+import cars from './componenets/cars.vue'
 import auth from './componenets/auth.vue';
 import contact from './componenets/contact.vue';
 import footercmp from './componenets/footercmp.vue';
