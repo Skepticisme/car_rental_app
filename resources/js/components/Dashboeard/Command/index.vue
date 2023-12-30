@@ -86,7 +86,7 @@ import { mapState,mapMutations,mapGetters,mapActions } from 'vuex';
 import pagination from 'laravel-vue-pagination';
 
 // import cadrs component
-import cards from '../componnents/cards';
+import cards from '../componnents/cards.vue';
 export default{
   components:{
      pagination,cards
